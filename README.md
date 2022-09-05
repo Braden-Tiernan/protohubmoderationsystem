@@ -1,1 +1,2 @@
 # Protohub Moderation System
+This will allow people to sign up to be a moderator. Every moderator will get daily tasks to complete, if they miss tasks one day or allow/remove something they weren't supposed to they get a strike, three strikes you're out haha. Moderators will get a score that starts at 0 and as you complete tasks, depending on the type of task, your score a raise a certain amount. Every moderator will have their score & strikes public to keep moderators engaged
